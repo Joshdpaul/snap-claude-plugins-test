@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "snap-tools": {
+      "source": {
+        "source": "local",
+        "path": "/home/jdpaul3/claude-plugin-test/claude-plugins"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "repo-safety-guardrails@snap-tools": true
+  }
+}

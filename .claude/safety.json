@@ -1,0 +1,6 @@
+{
+  "allowed_paths": [
+    "~/claude-scratch",
+    "/tmp/claude-test"
+  ]
+}
