@@ -3,7 +3,7 @@
     "snap-tools": {
       "source": {
         "source": "github",
-        "repo": "Joshdpaul/snap-claude-plugins"
+        "repo": "ua-snap/snap-claude-plugins"
       }
     }
   },
