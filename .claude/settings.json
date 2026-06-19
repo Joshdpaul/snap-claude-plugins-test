@@ -2,8 +2,8 @@
   "extraKnownMarketplaces": {
     "snap-tools": {
       "source": {
-        "source": "local",
-        "path": "/home/jdpaul3/claude-plugin-test/claude-plugins"
+        "source": "github",
+        "repo": "Joshdpaul/snap-claude-plugins"
       }
     }
   },
